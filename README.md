@@ -1,4 +1,12 @@
-Oá,sou a Kauane Silva 👋
+Olá,sou a Kauane Silva 👋
+
+
+## ⭐️ Sobre mim
+<div align='center'>
+  <b>"O céu está sempre lindo. Mesmo quando está escuro, chuvoso ou nublado, ainda é bonito de se ver. Ele estará lá não importa o que aconteça e eu sei que sempre será lindo." </b>
+</div><br>
+
+
 
 - 🖥️estudante de front-end
 - 📖Estudante de Analise e desenvolvimento de sistemas

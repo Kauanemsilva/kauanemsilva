@@ -6,10 +6,25 @@ Olá,sou a Kauane Silva 👋
   <b>"O céu está sempre lindo. Mesmo quando está escuro, chuvoso ou nublado, ainda é bonito de se ver. Ele estará lá não importa o que aconteça e eu sei que sempre será lindo." </b>
 </div><br>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b>🎓 Programadora</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
-- 🖥️estudante de front-end
-- 📖Estudante de Analise e desenvolvimento de sistemas
+
+- 🖥️Estudante de front-end
+- 📖Focada na linguagem Javascript
 - 📫 Email de contato:kauanemsilva23@gmail.com
 - 😄 Pronouns:ela/dela
 

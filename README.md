@@ -40,8 +40,8 @@ Olá,sou a Kauane Silva 👋
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img aling="center" alt="DOCKER" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img aling="center" alt="GIT" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />        
-  <img aling="center" alt="MYSQL" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> />        
-    <img aling="center" alt="RUBY" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> />        
+  <img aling="center" alt="MYSQL" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />        
+    <img aling="center" alt="RUBY" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"  />        
                     
 </div>
   

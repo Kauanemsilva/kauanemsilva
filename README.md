@@ -23,7 +23,7 @@ Olá,sou a Kauane Silva 👋
 
 
 
-- 🖥️Estudante de front-end
+- 🖥️ Analista de tecnologia 
 - 📖Focada na linguagem Javascript
 - 📫 Email de contato:kauanemsilva23@gmail.com
 - 😄 Pronouns:ela/dela

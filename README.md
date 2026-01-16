@@ -33,7 +33,7 @@ Olá,sou a Kauane Silva 👋
 - 📖Fullstack
 - 📫 Email de contato:kauanemsilva23@gmail.com
 - 📫 Portifólio: https://kauanemsilvaportifolio.netlify.app/
-- 😄 Pronouns:ela/dela
+
 
 <div align="center">
   <a href="https://github.com/kauanemsilva">

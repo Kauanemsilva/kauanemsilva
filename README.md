@@ -4,6 +4,7 @@ Olá,sou a Kauane Silva 👋
 ## ⭐️ Sobre mim
 <div align='center'>
   <b> Analista de Sistemas com foco em integração de sistemas, automação de processos e boas práticas de desenvolvimento. </b>
+  <b> 🚀 azure • Python • Javascript • APIs REST • AWS  </b>
 </div><br>
 
 <div align="center">

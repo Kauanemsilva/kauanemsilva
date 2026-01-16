@@ -3,14 +3,14 @@ Olá,sou a Kauane Silva 👋
 
 ## ⭐️ Sobre mim
 <div align='center'>
-  <b>"O céu está sempre lindo. Mesmo quando está escuro, chuvoso ou nublado, ainda é bonito de se ver. Ele estará lá não importa o que aconteça e eu sei que sempre será lindo." </b>
+  <b> Analista de Sistemas com foco em integração de sistemas, automação de processos e boas práticas de desenvolvimento. </b>
 </div><br>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <b>🎓 Programadora</b>
+        <b>🎓 Analista de Sistemas</b>
       </td>
     </tr>
     <tr>
@@ -24,8 +24,9 @@ Olá,sou a Kauane Silva 👋
 
 
 - 🖥️ Analista de tecnologia 
-- 📖Focada na linguagem Javascript
+- 📖Fullstack
 - 📫 Email de contato:kauanemsilva23@gmail.com
+- 📫 Portifólio: https://kauanemsilvaportifolio.netlify.app/
 - 😄 Pronouns:ela/dela
 
 <div align="center">

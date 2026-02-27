@@ -5,7 +5,7 @@ Olá,sou a Kauane Silva 👋
 <div align='center'>
   <br> Analista de Sistemas com foco em integração de sistemas, automação de processos e desenvolvimento de APIs, atuando na criação de soluções eficientes e escaláveis. </br>
   <br>  ☁️ Cloud: AWS | Azure    </br>
-  <br> 🚀 Python • JavaScript • APIs REST  </br>
+  <br> 🚀 Python • Java • APIs REST  </br>
  <br>  💼 Atuação </br>
   Integração de sistemas e APIs| Automação de processos internos|<br>
   Organização e gestão de dados| Apoio à tomada de decisões técnicas

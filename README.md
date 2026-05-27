@@ -120,5 +120,12 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
 
+##
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauanemsilva/kauanemsilva/pacman-output/pacman-contribution-graph-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauanemsilva/kauanemsilva/pacman-output/pacman-contribution-graph.svg">
 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauanemsilva/kauanemsilva/pacman-output/pacman-contribution-graph.svg">
+</picture>
